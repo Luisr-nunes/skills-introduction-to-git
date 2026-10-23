@@ -1,37 +1,33 @@
-<div align="center">
+# Introdução ao Git — GitHub Skills
 
-# 🎉 Congratulations Luisr-nunes! 🎉
+<!-- badges -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+[Read in English](README.en.md)
 
-### 🌟 You've successfully completed the exercise! 🌟
+Exercício concluído do curso [Introduction to Git](https://github.com/skills/introduction-to-git), do GitHub Skills, sobre os fundamentos de versionamento com Git.
 
-## 🚀 Share Your Success!
+## Etapas concluídas
 
-**Show off your new skills and inspire others!**
+1. Introdução ao controle de versão com Git
+2. Criação do primeiro repositório
+3. Exploração do histórico
+4. Comparação de mudanças
+5. Trabalho com branches
+6. Introdução à colaboração
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FLuisr-nunes%2Fskills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FLuisr-nunes%2Fskills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FLuisr-nunes%2Fskills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+Cada etapa foi validada automaticamente por um workflow do GitHub Actions (`.github/workflows`), e as instruções estão em `.github/steps`.
 
-### 🎯 What's Next?
+## Projeto usado no exercício
 
-**Keep the momentum going!**
+Em `src/` está o **Stack Overflown**, um jogo de quebra-cabeça com tema de programação em HTML, CSS e JavaScript, usado como base para praticar commits, diffs e branches.
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Luisr-nunes/skills-introduction-to-git/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
+Para jogar, abra `src/index.html` no navegador.
 
-*There's no better way to learn than building things!* 🚀
+## Licença
 
-</div>
+Material do GitHub, distribuído sob a licença MIT (veja [LICENSE](LICENSE)).
 
----
+## Autor
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+Luís Nunes — [GitHub](https://github.com/Luisr-nunes) · [LinkedIn](https://www.linkedin.com/in/luis-nunes-dev/)
